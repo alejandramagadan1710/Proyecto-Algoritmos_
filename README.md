@@ -1,4 +1,4 @@
-# Proyecto Algoritmos_
+# Proyecto Algoritmos - Videojuego RPG
 # Design Thinking
 
 En esta primera fase buscamos comprender a los usuarios para quienes estamos desarrollando el videojuego. Nuestro público principal son estudiantes universitarios, especialmente de CUCEI.
